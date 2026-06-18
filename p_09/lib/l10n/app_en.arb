@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "placar": "SCORE",
+  "time1": "Team 1",
+  "time2": "Team 2",
+  "lanceLivre": "Free Throw",
+  "doisPontos": "2 Points",
+  "tresPontos": "3 Points",
+  "voltarLance": "Undo Shot",
+  "scoreFormat": "{score1} x {score2}",
+  "@scoreFormat": {
+    "placeholders": {
+      "score1": { "type": "int" },
+      "score2": { "type": "int" }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "@@locale": "pt",
+  "placar": "PLACAR",
+  "time1": "Time 1",
+  "time2": "Time 2",
+  "lanceLivre": "Lance Livre",
+  "doisPontos": "2 Pontos",
+  "tresPontos": "3 Pontos",
+  "voltarLance": "Voltar Lance",
+  "scoreFormat": "{score1} x {score2}"
+}
